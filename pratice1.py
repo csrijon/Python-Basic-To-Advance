@@ -13,7 +13,7 @@
 # print(type(age))
 
 # sum of two number 
-letter1 = 6
+letter1 = 6 
 letter2 = 9
 print(letter1+letter2)
 
